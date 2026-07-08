@@ -1,4 +1,4 @@
-# 🛡️ DecodeLabs Cyber Security Internship Projects
+# 🛡️ DecodeLabs Cyber Security Internship 
 
 Welcome to my **DecodeLabs Cyber Security Internship (Batch 2026)** repository. This repository contains the projects completed during my internship, focusing on fundamental cybersecurity concepts such as password security, cryptography, phishing detection, and system vulnerability assessment.
 
