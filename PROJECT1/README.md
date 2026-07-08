@@ -66,7 +66,7 @@ cd password-strength-checker
 ### 3. Run the program
 
 ```bash
-python password_strength_checker.py
+python Project 1: Password Strength Checker.PY
 ```
 
 ---
