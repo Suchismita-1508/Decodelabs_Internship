@@ -48,7 +48,7 @@ The application helps users:
 ```text
 Phishing-Awareness-Analysis/
 │
-├── phishing_awareness_analysis.py
+├── Project 3 – Phishing Awareness Analysis 
 ├── README.md
 
 ```
