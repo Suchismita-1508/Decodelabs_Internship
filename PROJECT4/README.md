@@ -70,7 +70,7 @@ cd PROJECT4
 ### 3. Run the program
 
 ```bash
-python system_vulnerability_checklist.py
+Project 4: System Vulnerability Checklist.PY
 ```
 
 ---
