@@ -125,7 +125,7 @@ DecodeLabs-Cyber-Security-Internship/
 │   └── README.md
 │
 ├── PROJECT2/
-│   ├── basic_encryption_decryption.py
+│   ├── Project 2: Basic Encryption & Decryption .PY
 │   └── README.md
 │
 ├── PROJECT3/
