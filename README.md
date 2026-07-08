@@ -129,11 +129,11 @@ DecodeLabs-Cyber-Security-Internship/
 │   └── README.md
 │
 ├── PROJECT3/
-│   ├── PROJECT3/Project 3: Phishing Awareness Analysis.PY
+│   ├── Project 3: Phishing Awareness Analysis.PY
 │   └── README.md
 │
 ├── PROJECT4/
-│   ├── system_vulnerability_checklist.py
+│   ├── Project 4: System Vulnerability Checklist.PY
 │   └── README.md
 │
 └── README.md
