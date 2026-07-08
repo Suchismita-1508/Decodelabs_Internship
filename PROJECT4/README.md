@@ -1,4 +1,4 @@
-# 🛡️ System Vulnerability Checklist and Security Risk Assessment Using Python
+# 🛡️ System Vulnerability Checklist and Security Risk Assessment
 
 ## 📌 Project Overview
 
@@ -52,7 +52,7 @@ The application:
 ```text
 System-Vulnerability-Checklist/
 │
-├── system_vulnerability_checklist.py
+├── Project 4: System Vulnerability Checklist.PY
 ├── README.md
 ```
 
