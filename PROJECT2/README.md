@@ -1,4 +1,4 @@
-**# 🔐 Basic Encryption & Decryption (Caesar Cipher)
+## 🔐 Basic Encryption & Decryption (Caesar Cipher)
 
 A simple yet effective Basic Encryption & Decryption system developed in Python using the Caesar Cipher algorithm. This project demonstrates the fundamentals of cryptography by allowing users to encrypt plain text into cipher text and decrypt it back using a shift key. It serves as an excellent introduction to encryption techniques and secure data communication.
 
@@ -96,9 +96,9 @@ The application:
 ```text
 Basic-Encryption-Decryption/
 │
-├── basic_encryption_decryption.py
+├── Project 2: Basic Encryption & Decryption .PY
 ├── README.md
-└── PROJECT 2.pdf
+
 ```
 
 ---
@@ -111,13 +111,13 @@ Basic-Encryption-Decryption/
 ### 2. Navigate to the project folder
 
 ```bash
-cd basic-encryption-decryption
+cd PROJECT2
 ```
 
 ### 3. Run the program
 
 ```bash
-python basic_encryption_decryption.py
+python Project 2: Basic Encryption & Decryption .PY
 ```
 
 ---
