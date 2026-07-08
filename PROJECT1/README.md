@@ -1,50 +1,155 @@
-⸻
+# 🔐 Password Strength Checker
 
-🔐 Password Strength Checker (Python)
+## 📌 Project Overview
 
-A simple yet effective Password Strength Checker developed in Python that analyzes the security level of a password based on standard cybersecurity practices. The program evaluates password strength by checking criteria such as length, uppercase and lowercase letters, numbers, and special characters, then provides feedback to help users create stronger passwords.
+The **Password Strength Checker** is a Python-based cybersecurity project developed as part of the **DecodeLabs Cyber Security Internship (Batch 2026)**. It evaluates the strength of a password by analyzing its length and character composition, helping users create stronger and more secure passwords.
 
-✨ Features
+---
 
-* Checks password length
-* Detects uppercase and lowercase letters
-* Verifies numeric characters
-* Identifies special symbols
-* Rates password as Weak, Medium, or Strong
-* Provides suggestions to improve weak passwords
-* Beginner-friendly Python implementation
+## 🎯 Objective
 
-🛠️ Technologies Used
+The objective of this project is to classify a password as **Weak**, **Medium**, or **Strong** based on predefined security rules such as:
 
-* Python 3
-* Regular Expressions (re module)
+- Password length
+- Uppercase letters
+- Lowercase letters
+- Numbers
+- Special characters
 
-📌 How It Works
+This project demonstrates fundamental cybersecurity concepts related to password validation and secure authentication.
 
-1. User enters a password.
-2. The program analyzes different security parameters.
-3. A strength rating is displayed.
-4. Improvement tips are provided if the password is not strong.
+---
 
-🎯 Learning Outcomes
+## ✨ Features
 
-* Python programming fundamentals
-* String manipulation
-* Regular expressions
-* Conditional statements
-* User input handling
-* Basic cybersecurity concepts
+- ✅ Checks password length
+- ✅ Detects uppercase letters
+- ✅ Detects lowercase letters
+- ✅ Detects numeric digits
+- ✅ Detects special characters
+- ✅ Classifies password as:
+  - Weak
+  - Medium
+  - Strong
+- ✅ User-friendly console interface
 
-🚀 Future Enhancements
+---
 
-* Password breach detection using APIs
-* Password generator
-* Graphical User Interface (GUI)
-* Password entropy calculation
-* Real-time password strength meter
+## 🛠️ Technologies Used
 
-⸻
+- Python 3
+- Regular Expressions (`re` module)
 
-👨‍💻 Author
+---
 
-Suchismita Sahoo
+## 📂 Project Structure
+
+```text
+Password-Strength-Checker/
+
+├── password_strength_checker.py
+├── README.md
+
+```
+
+---
+
+## ▶️ How to Run
+
+### 1. Clone the repository
+### 2. Open the project folder
+
+```bash
+cd password-strength-checker
+```
+
+### 3. Run the program
+
+```bash
+python password_strength_checker.py
+```
+
+---
+
+## 💻 Sample Output
+
+```text
+Enter Password: Hello123
+
+Password Strength: Medium
+```
+
+```text
+Enter Password: Hello@1234
+
+Password Strength: Strong
+```
+
+```text
+Enter Password: abc
+
+Password Strength: Weak
+```
+
+---
+
+## 🔒 Password Strength Criteria
+
+| Criteria | Requirement |
+|----------|-------------|
+| Minimum Length | 8 Characters |
+| Uppercase Letter | Required |
+| Lowercase Letter | Required |
+| Number | Required |
+| Special Character | Required |
+
+---
+
+## 📚 Learning Outcomes
+
+Through this project, I learned:
+
+- String handling in Python
+- Regular Expressions
+- Conditional statements
+- Password validation techniques
+- Basic cybersecurity practices
+- Secure password policies
+
+---
+
+## 🚀 Future Improvements
+
+- Password entropy calculation
+- Detection of commonly used passwords
+- Password breach database integration
+- Password strength score meter
+- GUI version using Tkinter
+- Password generator
+
+---
+
+## 👩‍💻 Author
+
+**Suchismita**
+
+Cyber Security Intern
+
+DecodeLabs Cyber Security Internship – Batch 2026
+
+---
+
+## 📜 Internship Information
+
+**Internship:** DecodeLabs Cyber Security Intern
+
+**Batch:** 2026
+
+**Project:** Project 1 – Password Strength Checker
+
+---
+
+## 🙏 Acknowledgement
+
+This project was successfully completed as part of the **DecodeLabs Cyber Security Internship (Batch 2026)**. It focuses on understanding password validation techniques and strengthening the fundamentals of cybersecurity through practical implementation.
+
