@@ -60,7 +60,7 @@ Password-Strength-Checker/
 ### 2. Open the project folder
 
 ```bash
-cd password-strength-checker
+cd PROJECT1
 ```
 
 ### 3. Run the program
