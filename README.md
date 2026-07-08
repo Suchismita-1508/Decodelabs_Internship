@@ -120,19 +120,19 @@ A security assessment tool that evaluates common security practices and provides
 ```text
 DecodeLabs-Cyber-Security-Internship/
 │
-├── Project-1-Password-Strength-Checker/
-│   ├── password_strength_checker.py
+├── PROJECT1/
+│   ├── Project 1: Password Strength Checker.PY
 │   └── README.md
 │
-├── Project-2-Basic-Encryption-Decryption/
+├── PROJECT2/
 │   ├── basic_encryption_decryption.py
 │   └── README.md
 │
-├── Project-3-Phishing-Awareness-Analysis/
+├── PROJECT3/
 │   ├── phishing_awareness_analysis.py
 │   └── README.md
 │
-├── Project-4-System-Vulnerability-Checklist/
+├── PROJECT4/
 │   ├── system_vulnerability_checklist.py
 │   └── README.md
 │
