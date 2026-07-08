@@ -146,7 +146,7 @@ DecodeLabs Cyber Security Internship – Batch 2026
 
 ## 📜 Internship Information
 
-**Internship:** DecodeLabs Cyber Security Intern
+**Internship:** DecodeLabs Cyber Security Internship
 
 **Batch:** 2026
 
