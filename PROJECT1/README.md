@@ -47,7 +47,7 @@ This project demonstrates fundamental cybersecurity concepts related to password
 ```text
 Password-Strength-Checker/
 
-├── password_strength_checker.py
+├── Project 1: Password Strength Checker.PY
 ├── README.md
 
 ```
